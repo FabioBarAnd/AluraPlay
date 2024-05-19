@@ -8,5 +8,5 @@ AluraPlay is a video sharing platform built by Fabio with help of Alura. It was 
 * Json-server
 
 ## Screenshots
-(![Screenshot da tela inicial do AluraPlay](image.png))
-(![Screenshot da tela do formulário do AluraPlay](image-1.png))
+![Screenshot da tela inicial do AluraPlay](image.png)
+![Screenshot da tela do formulário do AluraPlay](image-1.png)
