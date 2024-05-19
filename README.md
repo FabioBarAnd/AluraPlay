@@ -7,6 +7,14 @@ AluraPlay is a video sharing platform built by Fabio with help of Alura. It was 
 * NodeJS
 * Json-server
 
+## Help to use the project
+* Open the Git
+* Write:
+  - npm init
+  - npm i -g json-server@0.17.0
+  - json-server --watch db.json
+
+
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](image.png)
 ![Screenshot da tela do formulário do AluraPlay](image-1.png)
